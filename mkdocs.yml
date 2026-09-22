@@ -1,0 +1,31 @@
+site_name: Documentació de les meues pràctiques
+site_description: Documentació de les pràctiques d'Implantació d'Aplicacions Web
+site_author: Josep Calvo
+
+theme:
+  name: material
+  language: ca
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Inici: index.md
+  - Pràctica 1 - Git i GitHub: git-github.md
+  - Pràctica 2 - Introducció a Markdown: markdown.md
+  - Pràctica 3 - Branques i unions: branques-unions.md
+  - Pràctica 3 - MkDocs: mkdocs.md
+  - Pràctica 4 - Pull Request: pull-request.md
+  - Pràctica 4 - GitHub Pages: github-pages.md
