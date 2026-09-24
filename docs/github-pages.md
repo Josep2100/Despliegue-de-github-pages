@@ -1,4 +1,4 @@
-# Pràctica 3 - MkDocs, Material i GitHub Pages
+# Pràctica 6 - MkDocs, Material i GitHub Pages
 
 ## Objectius
 
