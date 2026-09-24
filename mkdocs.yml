@@ -23,6 +23,7 @@ theme:
 
 nav:
   - Inici: index.md
+  - Comandos 0 - Comandos utiles: comandos.md
   - Pràctica 1 - Git i GitHub: git-github.md
   - Pràctica 2 - Introducció a Markdown: markdown.md
   - Pràctica 3 - Branques i unions: branques-unions.md
