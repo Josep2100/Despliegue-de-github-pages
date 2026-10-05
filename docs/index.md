@@ -21,4 +21,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         mkdocs.md
         pull-request.md
         github-pages.md
+        instalacio-de-un-servidor-LEMP.md
+        servir-multiples-dominis.md
+        web-segura.md
         ...       # Other markdown pages, images and other files.
