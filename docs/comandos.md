@@ -14,3 +14,4 @@ comandos:
 12. source .venv/bin/activate: Activa un entorno virtual de Python llamado .venv en tu terminal.
 13. Git PUSH: Pasa subir los commits a GITHUB
 14. Git PULL: Es bajar todas esas modificaciones que haces en GITHUB al ordenador
+15. Git assemble -am: Es por si tienes 2 commits, es decir, en un commit tienes f1.txt y en el otro f2.txt, este comando te permite añadir el fichero f2.txt al mismo commit de f1.txt y lo puedes subir juntos y no por separado
