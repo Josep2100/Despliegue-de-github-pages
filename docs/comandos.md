@@ -9,4 +9,8 @@ comandos:
 7. mkdocs new projecte: Crea una carpeta llamada proyecto con los ficheros mkdocs.yml, index.md
 8. mkdocs serve: Inicas un servidor web para poder verlo desde el navegador.
 9. mkdocs build: Crea una carpeta llamada SAID y dentro de esa carpeta, hay un fichero HTML y mas, crea su propia web.
-
+10. ss -lntp: Para ver en que puerto esta escuchando nuestro servicio.
+11. Python3 -m venv -venv: Crea el entorno de trabajo
+12. source .venv/bin/activate: Activa un entorno virtual de Python llamado .venv en tu terminal.
+13. Git PUSH: Pasa subir los commits a GITHUB
+14. Git PULL: Es bajar todas esas modificaciones que haces en GITHUB al ordenador
